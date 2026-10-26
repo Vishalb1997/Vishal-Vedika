@@ -845,7 +845,7 @@
     min-height: 600px;
     position: relative;
     overflow: hidden;
-    background: url('background2.jpg') center center / cover no-repeat;
+    background: url('background2.png') center center / cover no-repeat;
     background-attachment: fixed;
   }
   .photo-strip-overlay {
